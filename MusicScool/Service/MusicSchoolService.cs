@@ -128,6 +128,10 @@ namespace MusicScool.Service
 
             document.Save(MusicSchoolPath);
         }
+        public static void prin()
+        {
+            Console.WriteLine("hahahahha");
+        }
 
 
     }
